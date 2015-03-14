@@ -1,0 +1,22 @@
+name: MultiSell
+main: me.MrBlobman.MultiSell.MultiSell
+version: 1.0.0
+description: >
+             Sell all your items in a single command.
+author: MrBlobman
+depend: [Vault]
+commands:
+  sell:
+    description: Sell as many items from your inventory based on the shop specified.
+  createshop:
+    description: Creates a new shop file.
+  editshop:
+    description: Edits an existing shop file.
+  shopinfo:
+    description: Shows information about a shop.
+  addbooster:
+    description: Adds a booster.
+  removebooster:
+    desciption: Removes a booster.
+  getboosters:
+    description: List all active boosters.

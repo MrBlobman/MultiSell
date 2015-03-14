@@ -1,0 +1,8 @@
+Messages:
+  ChatPrefix: '&4[&bRC&4-&bSell&4] '
+  InvalidShop: '&cThe shop you have specified does not exist. Please specify one of these valid shops: %listOfShops%.'
+  NothingToSell: '&b%player%&c, you do not have any items in your inventory to sell!' 
+  PriceMultiplier: '&bCurrent multiplier x%multiplierAmount% thanks to %multiplierReason%. (%length%)'
+  SoldItem: '&b%player%&a, you sold &e%amount% &a%itemType% for $%moneyEarned%!'
+  NoPermissionForShop: '&b%player%&c, you do not have permission to sell at this shop!'
+ActiveBoosters:
